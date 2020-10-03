@@ -1,2 +1,2 @@
 # ArtPriceEstimator
-Toy project using CNNs to classify art into value brackets. 
+Using CNNs to classify art into value brackets. 
